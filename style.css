@@ -15,14 +15,13 @@ h2{
     color: rgb(0, 0, 0);
     background-color: aqua;
     width: 50% ;
-    display: ;
-   
+    margin-bottom: 15px;
 }
 
 .container {
    display: flex;
     justify-content: left;
-    margin-top: 15px;
+    margin-bottom: 25px;
     color: rgb(114, 114, 114);
   
   }
@@ -32,13 +31,11 @@ h2{
   }
 
 .gallery {
-    margin-top: 25px;
     width: 50%;
     display: inline-flex;
-    
+    margin-bottom: 25px;
 }
 .menu-down{
-    margin-top: 25px;
     width: 50%;
     a { text-decoration: none;
         background-color: rgba(245, 242, 20, 0.61);}
